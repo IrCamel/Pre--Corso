@@ -1,0 +1,83 @@
+body {
+    margin: 0;
+    font-family: 'Montserrat';
+     }
+    
+    
+    .main-section {
+        padding: 20px;
+        
+    }
+
+    .image-container {
+        height: 500px;
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+
+    .title1 {
+        font-family: 'Prata';
+        font-size: 64px;
+        font-weight: 400;
+
+    }
+
+    .title2 {
+        font-family: 'Prata';
+        font-size: 24px;
+        font-weight: 400;
+        margin-top: 0;
+    }
+
+    p {
+        font-weight: 600;
+        font-style: italic;
+    }
+
+    .title3 {
+        font-size: large;   
+        padding: 22px;
+        margin-bottom: 0px;
+        margin-top: 56px;
+        color: rgb(0, 0, 0);
+        border-radius: 6px;
+        background: linear-gradient(rgb(163, 104, 9)0%,rgb(95, 91, 91)100%) 
+    }
+
+    ul {
+        padding: 0;
+        list-style-type: none;
+        
+        
+    }
+
+    .correlati {
+        padding-top: 6px;
+        padding-bottom: 6px;
+        padding-left: 22px;
+        border-bottom: 1px color(#dfdfdf);
+        
+    }
+
+    ul a {
+        text-decoration: none;
+    }
+
+    ul a:visited {
+        color: rgb(163, 104, 9);
+    }
+
+    footer {
+        background-color: black;
+        color: white;
+        padding: 16px;
+        text-align: center;
+    }
+
+    footer a {
+        color: white;
+    }
+
+    footer a :visited {
+        color: white;
+    }
